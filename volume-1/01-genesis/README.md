@@ -1,4 +1,4 @@
-**An exposition, with practical observations, of the first book of moses, called**
+**An exposition, with practical observations, of the first book of Moses, called**
 
 # Genesis
 
