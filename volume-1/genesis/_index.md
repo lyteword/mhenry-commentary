@@ -1,6 +1,7 @@
-**An exposition, with practical observations, of the first book of Moses, called**
-
-# Genesis
+---
+title: Genesis
+weight: 1
+---
 
 We have now before us the holy Bible, or book, for so bible signifies. We call it the book, by way of eminency; for it is incomparably the best book that ever was written, the book of books, shining like the sun in the firmament of learning, other valuable and useful books, like the moon and stars, borrowing their light from it. We call it the holy book, because it was written by holy men, and indited by the Holy Ghost; it is perfectly pure from all falsehood and corrupt intention; and the manifest tendency of it is to promote holiness among men. The great things of God's law and gospel are here written to us, that they might be reduced to a greater certainty, might spread further, remain longer, and be transmitted to distant places and ages more pure and entire than possibly they could be by report and tradition: and we shall have a great deal to answer for if these things which belong to our peace, being thus committed to us in black and white, be neglected by us as a strange and foreign thing, Hos. viii. 12. The scriptures, or writings of the several inspired penmen, from Moses down to St. John, in which divine light, like that of the morning, shone gradually (the sacred canon being now completed), are all put together in this blessed Bible, which, thanks be to God, we have in our hands, and they make as perfect a day as we are to expect on this side of heaven. Every part was good, but all together very good. This is the light that shines in a dark place (2 Pet. i. 19), and a dark place indeed the world would be without the Bible.
 

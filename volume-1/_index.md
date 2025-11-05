@@ -1,4 +1,6 @@
-# Volume I - Genesis to Deuteronomy
+---
+title: Volume I - Genesis to Deuteronomy
+---
 
 ## Preface
 
